@@ -4,7 +4,7 @@
 This is how you install a pack export when using CurseForge, install it as a new profile (other applications that support .zip files, you'll have to find instructions for yourself)
 
 ![follow this](https://github.com/McSquizzleswag/.cdn/blob/main/CFscreenshots/Installpack.png?raw=true)
-
+- ## Ignore the `source code` files, that's just GitHub doing its thing and making zips of zips in the case of this pack
 ### If you want to help with pack testing, join my [discord](https://discord.gg/uMMPaze), fill out the application and I (McSquizzleswag) will give you a role that grants you access to my Minecraft server (as long as you own the game)
 
 (This repository might get moved to my organization page, but not sure yet ¯\\_(ツ)_/¯)
